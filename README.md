@@ -1,3 +1,3 @@
-# lustro-c7juzz
+# lustro-przeprogramowani 
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/lustro-c7juzz)
